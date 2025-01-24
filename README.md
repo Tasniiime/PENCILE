@@ -1,2 +1,8 @@
-![Pastel Purple Illustrated Zoom Virtual BG (2)](https://github.com/user-attachments/assets/ee27db2a-078a-4b5a-8160-ce8e5a6af89b)
-# Welcome to PENCIL the best social media app for schools.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
