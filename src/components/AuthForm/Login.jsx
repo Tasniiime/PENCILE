@@ -34,7 +34,7 @@ const Login = () => {
 			)}
 			<Button
 				w={"full"}
-				colorScheme='blue'
+				colorScheme='pink'
 				size={"sm"}
 				fontSize={14}
 				isLoading={loading}
